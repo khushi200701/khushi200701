@@ -38,5 +38,3 @@
    <br />
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khushi200701&theme=prussian&hide_border=true)](https://git.io/streak-stats)
    <br />
-   <br />
-   ![Skyline](https://github.com/khushi200701/khushi200701/blob/master/github-metrics.svg)
