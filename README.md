@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
-<p align="center"> <img src="https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy-u2wg2uXJbHzkXkPphr?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/" height="160px" width="160px"> 
+<p align="center"> <img src="https://giphy.com/clips/studiosoriginals-sleep-tired-sleepy.gif" height="160px" width="160px"> 
    
    ## :wave: About Me 
 <a href="https://twitter.com/g_khushi_20" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/khushi-garg-96682a11a/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
