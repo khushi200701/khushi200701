@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="160px" width="160px"> 
    
-   ## :wave: About Me 
+## :wave:  About Me 
 <a href="https://twitter.com/g_khushi_20" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="100px" width="100px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/khushi-garg-96682a11a/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="100px" width="100px" alt="Twitter" align="right"></a>
 👩‍🎓 Hey! I'm Khushi, a 20 year old aspiring Software Developer.
 
