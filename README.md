@@ -1,6 +1,6 @@
-<h1 align="center">Hey, I'm Khushi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p> 
+<p align="center"> <img src="https://media3.giphy.com/media/u2wg2uXJbHzkXkPphr/giphy360p.mp4?cid=ecf05e47wm4saxtx8i3v162n56n0gmjhq642tdth36dbd466&rid=giphy360p.mp4&ct=v" height="160px" width="160px"> 
    
    ## :wave: About Me 
 <a href="https://twitter.com/g_khushi_20" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/khushi-garg-96682a11a/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
