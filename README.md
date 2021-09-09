@@ -31,10 +31,3 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<br/>
-
-  [![Khushi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khushi200701&theme=xcode)](https://git.io/khushi200701)
-   <br />
-   <br />
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khushi200701&theme=prussian&hide_border=true)](https://git.io/streak-stats)
-   <br />
