@@ -1,6 +1,6 @@
 <h1 align="center">Hello there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 
-<p align="center"> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="160px" width="160px"> 
+<p align="center"> <img src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="140px" width="140px"> 
    
 ## :wave:  About Me 
 <a href="https://twitter.com/kkkkkhushii" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="100px" width="100px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/khushi-garg-96682a11a/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="100px" width="100px" alt="Twitter" align="right"></a>
@@ -31,3 +31,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+<br/>
+
+  [![Khushi's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=khushi200701&theme=xcode)](https://git.io/khushi200701)
+   <br />
